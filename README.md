@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **twkavya004/twkavya004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hiiii! I'm Kavya!
+
+- BCom/BSc Conjoint Student @ UoA · **Accounting & Computer Science**
+- Auckland, NZ - Open to relocation
+- Looking for graduate/full-time roles from **July 2026**
+ 
+I like building things end-to-end, from an AI-powered analytics tool to a productivity web app, moving across the stack from database design through backend logic to the interface on top.
+ 
