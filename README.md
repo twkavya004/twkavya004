@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 
 # Hiiii! I'm Kavya!
 
-🎓 BCom/BSc Conjoint Student @ UoA · **Accounting & Computer Science**\
+🎓 BCom/BSc Conjoint Student @ UoA · Accounting & Computer Science\
 📍 Auckland, NZ - Open to relocation\
-💼 Looking for internship/graduate/full-time roles from **July 2026**\
+💼 Looking for internship/graduate/full-time roles from July 2026
  
 I like building things end-to-end, from an AI-powered analytics tool to a productivity web app, moving across the stack from database design through backend logic to the interface on top.
 
 ---
 
-## Featured Projects
+## Featured Projects ✨
  
 ### [Analytics Dashboard for Upside Youth Mentoring](https://github.com/Project-Magma-NZ/PM-2026-S1-UYM)
 Full-stack analytics dashboard built for a real client (Upside Youth Mentoring). I was **team lead**, owned the Vercel/Render deployment pipeline, Supabase Auth integration, a custom metrics CRUD feature (Supabase + FastAPI + React), and live GA4 API integration.\
@@ -41,7 +41,7 @@ Content management platform for a real arts organisation client, built with the 
 Full-stack responsive museum site built from scratch for the University of Auckland with a REST API backend & SwaggerUI docs, user authentication, artefact search, guestbook, events, and visitor analytics. Also integrated Google Maps and YouTube APIs and designed a custom SVG logo.\
 `C#` `ASP.NET Core` `SQLite` `JavaScript` `HTML` `Tailwind CSS`
  
-### ["World Focus"](https://github.com/niklaus32/World-Focus) for WinCS x UOACS Hackathon 2025 🏆 Most Creative Prize
+### [World Focus](https://github.com/niklaus32/World-Focus) for WinCS x UOACS Hackathon 2025 🏆 Most Creative Prize
 Built a productivity web app in 8 hours - interactive 3D globe with city pins, scenic travel videos, a Pomodoro timer, and a music player. Led UI design and core feature implementation across a team of four.\
 `React` `Tailwind CSS`
 
@@ -50,7 +50,7 @@ An AI-powered briefing and research tool is being built for the BNZ Innovate AI 
 
 ---
 
-## Tech Stack
+## Tech Stack 🧑‍💻
  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
