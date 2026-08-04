@@ -1,10 +1,10 @@
 # Hiiii! I'm Kavya!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=6BCB77&center=true&vCenter=true&width=435&lines=📊+Accounting+%2B+CS+Graduate;🌏+Auckland%2C+NZ;💻+Full-Stack+Developer;🚀+Always+Building" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=6BCB77&center=true&vCenter=true&width=435&lines=📊+Accounting+%2B+CompSci+Graduate;🌏+Auckland%2C+NZ;💻+Full-Stack+Developer;🚀+Always+Building" alt="Typing SVG"/>
 </p>
 
-🎓 BCom/BSc Conjoint Student @ UoA · Accounting & Computer Science\
+🎓 BCom/BSc Conjoint Graduate · Accounting & Computer Science @ UoA\
 📍 Auckland, NZ - Open to relocation\
 💼 Looking for internship/graduate/full-time roles - Available August 2026
 
