@@ -1,7 +1,7 @@
 # Hiiii! I'm Kavya!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=6BCB77&center=true&vCenter=true&width=435&lines=💻+Full-Stack+Developer;📊+Accounting+%26+CS+Student;🚀+Always+Building;🌏+Auckland+%E2%86%92+World" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=6BCB77&center=true&vCenter=true&width=435&lines=📊+Accounting+%2B+CS+Graduate;🌏+Auckland%2C+NZ;💻+Full-Stack+Developer;🚀+Always+Building" alt="Typing SVG"/>
 </p>
 
 🎓 BCom/BSc Conjoint Student @ UoA · Accounting & Computer Science\
