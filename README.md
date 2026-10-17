@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=6BCB77&center=true&vCenter=true&width=435&lines=📊+Accounting+%2B+CompSci+Graduate;🌏+Auckland%2C+NZ;💻+Full-Stack+Developer;🚀+Always+Building" alt="Typing SVG"/>
 </p>
 
-BCom/BSc Conjoint Graduate · Accounting & Computer Science @ UoA\
+BCom/BSc Conjoint Graduate · Accounting & Computer Science @ UoA
 
 I like building things end-to-end, from an AI-powered analytics tool to a productivity web app, moving across the stack from database design through backend logic to the interface on top.
 
